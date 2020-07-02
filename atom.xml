@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://space.bilibili.com/378871143/"/>
-  <updated>2020-07-02T00:38:14.937Z</updated>
+  <updated>2020-07-02T12:34:40.173Z</updated>
   <id>https://space.bilibili.com/378871143/</id>
   
   <author>
@@ -17,17 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test</title>
-    <link href="https://space.bilibili.com/378871143/2020/07/01/test/"/>
-    <id>https://space.bilibili.com/378871143/2020/07/01/test/</id>
-    <published>2020-07-01T06:19:37.000Z</published>
-    <updated>2020-07-02T00:38:14.937Z</updated>
+    <title>汉诺塔问题</title>
+    <link href="https://space.bilibili.com/378871143/2020/07/02/%E6%B1%89%E8%AF%BA%E5%A1%94%E9%97%AE%E9%A2%98/"/>
+    <id>https://space.bilibili.com/378871143/2020/07/02/%E6%B1%89%E8%AF%BA%E5%A1%94%E9%97%AE%E9%A2%98/</id>
+    <published>2020-07-02T12:34:19.000Z</published>
+    <updated>2020-07-02T12:34:40.173Z</updated>
     
     <summary type="html">
     
     </summary>
     
     
+    
+      <category term="算法" scheme="https://space.bilibili.com/378871143/tags/%E7%AE%97%E6%B3%95/"/>
     
   </entry>
   

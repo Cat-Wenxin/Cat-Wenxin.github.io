@@ -72,16 +72,6 @@
 
     <!-- copyright -->
     
-    <div class="declare">
-      <ul class="post-copyright">
-        <li>
-          <i class="ri-copyright-line"></i>
-          <strong>Copyright： </strong>
-          Copyright is owned by the author. For commercial reprints, please contact the author for authorization. For non-commercial reprints, please indicate the source.
-        </li>
-      </ul>
-    </div>
-    
     <footer class="article-footer">
        
 <div class="share-btn">
@@ -190,6 +180,30 @@
 </section>
       <footer class="footer">
   <div class="outer">
+  <!-- 运行天数 -->
+	<ul>
+		<li><span id="runtime_span">
+			<script type="text/javascript">			
+				function show_runtime() {
+					window.setTimeout("show_runtime()", 1000);
+					X = new Date("02/22/2020 22:22:22");
+					Y = new Date();
+					T = (Y.getTime() - X.getTime());
+					M = 24 * 60 * 60 * 1000;
+					a = T / M;
+					A = Math.floor(a);
+					b = (a - A) * 24;
+					B = Math.floor(b);
+					c = (b - B) * 60;
+					C = Math.floor((b - B) * 60);
+					D = Math.floor((c - C) * 60);
+					runtime_span.innerHTML = "该站已破壳 " + A + "天" + B + "小时" + C + "分" + D + "秒 啦！"
+				}
+				show_runtime();
+			</script>
+		</span></li>
+	</ul>
+
     <ul>
       <li>
         Copyrights &copy;
@@ -269,11 +283,11 @@
     </li>
     
     <li class="nav-item">
-      <a class="nav-item-link" href="/tags/%E6%97%85%E8%A1%8C/">旅行</a>
+      <a class="nav-item-link" href="/travel">旅行</a>
     </li>
     
     <li class="nav-item">
-      <a class="nav-item-link" href="/2019/about">关于我</a>
+      <a class="nav-item-link" href="/about">关于我</a>
     </li>
     
   </ul>

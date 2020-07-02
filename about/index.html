@@ -9,7 +9,7 @@
     
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
   <title>
-    关于我 |  笨手笨脚
+    about |  笨手笨脚
   </title>
   <meta name="generator" content="hexo-theme-ayer">
   
@@ -45,8 +45,8 @@
     <main class="content on">
       <section class="outer">
   <article
-  id="about-"
-  class="article article-type-about"
+  id="page-"
+  class="article article-type-page"
   itemscope
   itemprop="blogPost"
   data-scroll-reveal
@@ -56,7 +56,7 @@
     <header class="article-header">
        
 <h1 class="article-title sea-center" style="border-left:0" itemprop="name">
-  关于我
+  about
 </h1>
  
 
@@ -64,23 +64,37 @@
        
     <div class="article-entry" itemprop="articleBody">
        
-   
+  <div class="entry-content">
+  <div id="hello-mashiro" class="popcontainer" style="min-height: 300px; padding: 2px 6px 4px; background-color: rgba(242, 242, 242, 0.5); border-radius: 10px;">
+    <center>
+    <p>
+    </p>
+    <h4>
+    与&nbsp;<ruby>
+    笨手笨脚oO&nbsp;<rp>
+    （</rp>
+    <rp>
+    ）</rp>
+    </ruby>
+    通话中：</h4>
+    <p>
+    </p>
+    </center>
+    <bot-ui></botui>
+  </div>
+</div>
+
+
+<!-- script src="https://cdn.jsdelivr.net/gh/XXXZhy/Blog_Image/js/botui_xxxzhy.js"></script -->
+
+<link href="https://cdn.bootcss.com/botui/0.3.9/botui-theme-default.css" rel="stylesheet">
+<link href="https://cdn.bootcss.com/botui/0.3.9/botui.min.css" rel="stylesheet"> 
       <!-- reward -->
       
     </div>
     
 
     <!-- copyright -->
-    
-    <div class="declare">
-      <ul class="post-copyright">
-        <li>
-          <i class="ri-copyright-line"></i>
-          <strong>Copyright： </strong>
-          Copyright is owned by the author. For commercial reprints, please contact the author for authorization. For non-commercial reprints, please indicate the source.
-        </li>
-      </ul>
-    </div>
     
     <footer class="article-footer">
        
@@ -190,6 +204,30 @@
 </section>
       <footer class="footer">
   <div class="outer">
+  <!-- 运行天数 -->
+	<ul>
+		<li><span id="runtime_span">
+			<script type="text/javascript">			
+				function show_runtime() {
+					window.setTimeout("show_runtime()", 1000);
+					X = new Date("02/22/2020 22:22:22");
+					Y = new Date();
+					T = (Y.getTime() - X.getTime());
+					M = 24 * 60 * 60 * 1000;
+					a = T / M;
+					A = Math.floor(a);
+					b = (a - A) * 24;
+					B = Math.floor(b);
+					c = (b - B) * 60;
+					C = Math.floor((b - B) * 60);
+					D = Math.floor((c - C) * 60);
+					runtime_span.innerHTML = "该站已破壳 " + A + "天" + B + "小时" + C + "分" + D + "秒 啦！"
+				}
+				show_runtime();
+			</script>
+		</span></li>
+	</ul>
+
     <ul>
       <li>
         Copyrights &copy;
@@ -269,11 +307,11 @@
     </li>
     
     <li class="nav-item">
-      <a class="nav-item-link" href="/tags/%E6%97%85%E8%A1%8C/">旅行</a>
+      <a class="nav-item-link" href="/travel">旅行</a>
     </li>
     
     <li class="nav-item">
-      <a class="nav-item-link" href="/2019/about">关于我</a>
+      <a class="nav-item-link" href="/about">关于我</a>
     </li>
     
   </ul>
