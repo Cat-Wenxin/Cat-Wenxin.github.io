@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://space.bilibili.com/378871143/"/>
-  <updated>2020-06-30T16:23:57.946Z</updated>
+  <updated>2020-07-02T00:38:14.937Z</updated>
   <id>https://space.bilibili.com/378871143/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://space.bilibili.com/378871143/2020/07/01/test/"/>
+    <id>https://space.bilibili.com/378871143/2020/07/01/test/</id>
+    <published>2020-07-01T06:19:37.000Z</published>
+    <updated>2020-07-02T00:38:14.937Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
