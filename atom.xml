@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://space.bilibili.com/378871143/"/>
-  <updated>2020-07-02T12:34:40.173Z</updated>
+  <updated>2020-07-02T13:10:17.193Z</updated>
   <id>https://space.bilibili.com/378871143/</id>
   
   <author>
@@ -17,13 +17,21 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>汉诺塔问题</title>
+    <title>汉诺塔问题的递归和非递归</title>
     <link href="https://space.bilibili.com/378871143/2020/07/02/%E6%B1%89%E8%AF%BA%E5%A1%94%E9%97%AE%E9%A2%98/"/>
     <id>https://space.bilibili.com/378871143/2020/07/02/%E6%B1%89%E8%AF%BA%E5%A1%94%E9%97%AE%E9%A2%98/</id>
     <published>2020-07-02T12:34:19.000Z</published>
-    <updated>2020-07-02T12:34:40.173Z</updated>
+    <updated>2020-07-02T13:10:17.193Z</updated>
     
     <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h6 id=&quot;问题描述&quot;&gt;&lt;a href=&quot;#问题描述&quot; class=&quot;headerlink&quot;
+        
+      
     
     </summary>
     
