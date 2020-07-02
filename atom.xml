@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://space.bilibili.com/378871143/"/>
-  <updated>2020-07-02T13:10:17.193Z</updated>
+  <updated>2020-07-02T13:56:31.946Z</updated>
   <id>https://space.bilibili.com/378871143/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>矩阵连乘问题-动态规划</title>
+    <link href="https://space.bilibili.com/378871143/2020/07/02/%E7%9F%A9%E9%98%B5%E8%BF%9E%E4%B9%98%E9%97%AE%E9%A2%98-%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/"/>
+    <id>https://space.bilibili.com/378871143/2020/07/02/%E7%9F%A9%E9%98%B5%E8%BF%9E%E4%B9%98%E9%97%AE%E9%A2%98-%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/</id>
+    <published>2020-07-02T13:42:39.000Z</published>
+    <updated>2020-07-02T13:56:31.946Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;动态规划&quot;&gt;&lt;a href=&quot;#动态规划&quot; class=&quot;headerlink&quot; title=&quot;动态规划&quot;&gt;&lt;/a&gt;动态规划&lt;/h2&gt;&lt;h3 id=&quot;基本思想&quot;&gt;&lt;a href=&quot;#基本思想&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="算法" scheme="https://space.bilibili.com/378871143/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
   
   <entry>
     <title>汉诺塔问题的递归和非递归</title>
